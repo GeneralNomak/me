@@ -30,7 +30,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 .profile-picture {
-	border-radius: 50%;
+	border: 2px solid;
+	border-radius: 25%;
 }
 body {
 	line-height: 1;
